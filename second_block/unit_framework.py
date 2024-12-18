@@ -3,8 +3,6 @@ from selenium.webdriver.common.by import By
 import time
 import unittest
 
-link1 = "http://suninjuly.github.io/registration1.html"
-link2 = "http://suninjuly.github.io/registration2.html"
 browser = webdriver.Chrome()
 
 
