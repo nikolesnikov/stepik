@@ -1,2 +1,2 @@
 # stepik
-Здесь будут задания из курса https://stepik.org/course/575/
+Интересные задания из курсов по Python - https://stepik.org/course/58852 и Selenium - https://stepik.org/course/575/
